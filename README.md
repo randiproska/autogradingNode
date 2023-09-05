@@ -1,14 +1,5 @@
-# Autograding Example: Node
-This example project is written in Node, and tested with Jest.
-
-### The assignment
-The tests are failing right now because we're not returning the correct string. Fixing this up will make the tests green.
-
-### Setup command
-`npm install`
-
-### Run command
-`npm test`
-
-### Notes
-- 
+## Network Programming (Lab Work) Template Guides
+1. Silakan anda upload file hasil praktikum anda menggunakan Node.js lainnya dengan mengupload button ADD FILE
+2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
+3. Setiap file program anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
+4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
